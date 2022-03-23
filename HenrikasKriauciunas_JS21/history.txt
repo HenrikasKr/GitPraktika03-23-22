@@ -1,0 +1,109 @@
+    1  ./script.sh
+    2  ./Veiksmai.sh
+    3  nano Veiksmai.nh
+    4  nano Veiksmai.sh
+    5  ./Veiksmai.sh
+    6  ./Veiksmai.sh
+    7  ./Veiksmai.sh
+    8  ./Veiksmai.sh
+    9  ./Veiksmai.sh
+   10  ./Komandos.sh
+   11  ./Komandos.sh
+   12  ./Komandos.sh
+   13  ./Komandos.sh
+   14  ./Komandos.sh
+   15  ./Komandos.sh
+   16  ./Komandos.sh
+   17  ./Komandos.sh
+   18  ./Komandos.sh
+   19  ./Komandos.sh
+   20  ./Komandos.sh
+   21  ./Komandos.sh
+   22  ./Komandos.sh
+   23  ./Komandos.sh
+   24  ./Komandos.sh
+   25  ./Komandos.sh
+   26  ./Komandos.sh
+   27  ./Komandos.sh
+   28  ./Komandos.sh
+   29  ./Komandos.sh
+   30  ./Komandos.sh
+   31  ./Komandos.sh
+   32  ./Komandos.sh
+   33  ./Komandos.sh
+   34  ./Komandos.sh
+   35  ./Komandos.sh
+   36  ./Komandos.sh
+   37  ./Komandos.sh
+   38  ./Komandos.sh
+   39  ./Komandos.sh
+   40  mkdir HenrikasKriauciunas_JS21/3
+   41  git remote add GitPraktika03-23-22 git@github.com:HenrikasKr/GitPraktika03-23-22.git
+   42  git init
+   43  git remote add GitPraktika03-23-22 git@github.com:HenrikasKr/GitPraktika03-23-22.git
+   44  mkdir HenrikasKriauciunas_JS21/3
+   45  mkdir -p HenrikasKriauciunas_JS21/3
+   46  cd HenrikasKriauciunas_JS21/3
+   47  echo "Henrikas" > studentas.txt
+   48  cd ../
+   49  echo "Henrikas" > studentas.txt
+   50  git status
+   51  git add .
+   52  git commit -m "create studentas.txt"
+   53  git config --global user.email "kriauciunas.henrikas@gmail.com"
+   54  git config --global user.name "Henrikas"
+   55  git commit -m "create studentas.txt"
+   56  nano studentas.txt
+   57  git add .
+   58  git commit -m "edited studentas.txt"
+   59  git log --oneline
+   60  touch logas.log
+   61  touch .gitignore
+   62  git remote add origin git@github.com:HenrikasKr/GitPraktika03-23-22.git
+   63  get remote -v
+   64  git remote -v
+   65  git push origin main
+   66  git push origin master
+   67  clip < ~/.ssh/id_ed25519.pub
+   68  ssh-keygen -t ed25519 -C "kriauciunas.henrikas@gmail.com"
+   69  clip < ~/.ssh/id_ed25519.pub
+   70  git push origin master
+   71  git switch -c "21JS/3"
+   72  nano studentas.txt
+   73  git add .
+   74  git commit -m "update studentas.txt"
+   75  git pull origin master
+   76  git merge
+   77  git merge
+   78  git merge origin/master
+   79  git merge origin/master
+   80  git status
+   81  git add .
+   82  git commit -m "studentas.txt fix"
+   83  git merge
+   84  git push 21JS/3
+   85  git push git@github.com:HenrikasKr/GitPraktika03-23-22.git 21JS/3
+   86  git switch main
+   87  git switch master
+   88  git fetch git@github.com:HenrikasKr/GitPraktika03-23-22.git master
+   89  git branch -d JS21/3
+   90  git branch -D JS21/3
+   91  git switch JS21/3
+   92  git checkout JS21/3
+   93  git log --graph
+   94  giit push -d origin JS21/3
+   95  git push -d origin JS21/3
+   96  git push -d origin 21JS/3
+   97  git checkout 21JS/3
+   98  git branch -D 21JS/3
+   99  git switch master
+  100  git branch -D 21JS/3
+  101  nano studentas.txt
+  102  git fetch git@github.com:HenrikasKr/GitPraktika03-23-22.git master
+  103  git fetch
+  104  git remote -v
+  105  git pull origin master
+  106  nano studentas.txt
+  107  git add .
+  108  git commit -m "paskutinis commitas"
+  109  history > history.txt

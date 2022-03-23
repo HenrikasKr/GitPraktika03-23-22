@@ -1,0 +1,13 @@
+* b61341f paskutinis commitas
+*   1d99aec Merge pull request #1 from HenrikasKr/21JS/3
+|\  
+| *   393765d studentas.txt fix
+| |\  
+| |/  
+|/|   
+* | 371d63f Update studentas.txt
+| * fae19cb update studentas.txt
+|/  
+* 998659c edited studentas.txt
+* d8383fb create studentas.txt
+* 7ecd2da Initial commit
